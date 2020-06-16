@@ -7,4 +7,6 @@ This is based on a list of shows provided by [Wikipedia](https://en.wikipedia.or
 - Using Spacy to get locations from the Wikipedia API, and then mapping these to counties with a [lookup table](https://www.paulstenning.com/uk-towns-and-counties-list/)
 - Using a curated dataset
 
-The map indicates how many shows are in each county.  Click on a marker in a county to see a popover providing a list of shows.  You can view the map [here](https://htmlpreview.github.io/?https://github.com/rkhood/detective_map/blob/master/map.html)!
+The map indicates how many shows are in each county.  Click on a marker in a county to see a popover providing a list of shows.  You can view the map [here](map.html).
+
+![](pic.png)
